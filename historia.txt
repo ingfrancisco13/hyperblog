@@ -2,8 +2,4 @@ Esta es la historia de Francisco Gonzalez
 
 Francisco tiene 30 años
 
-Su deporte favorito es el futbol
-
-Es ingeniero mecanico y trabaja en mantenimiento
-
-Trabaja en skf omia
+Es ingeniero mecanico y esta aprendiendo ciencia de datos
